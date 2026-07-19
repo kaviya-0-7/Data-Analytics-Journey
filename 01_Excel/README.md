@@ -25,4 +25,4 @@ In this module, I learned the fundamentals of Microsoft Excel for Data Analytics
 - DataCleaning.xlsx
 
 ## Status
-🚀 In Progress
+🚀 Completed
